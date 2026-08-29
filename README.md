@@ -5,7 +5,7 @@
   ### 💻 Desenvolvedor Full Stack Júnior | Bacharelando em Ciência da Computação
   
   <p align="center">
-    📍 Manaus, AM — Brasil 🇧🇷 &nbsp;|&nbsp; 🎓 Estácio (Formação: Dez/2026) &nbsp;|&nbsp; 🎨 Formação Técnica em Design (Gracom)
+    📍 Manaus, AM — Brasil 🇧🇷 &nbsp;|&nbsp; 🎓 Estácio (Formação: Dez/2026) &nbsp;|&nbsp;
   </p>
 
   <p align="center">
