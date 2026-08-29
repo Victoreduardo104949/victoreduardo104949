@@ -21,7 +21,6 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Ciência da Computação** (6º período) com base sólida em **Design & Visual Effects** (Gracom).
-- 💼 Experiência prática com desenvolvimento e manutenção web no **Tribunal Regional do Trabalho da 11ª Região (TRT11)**.
 - 🚀 Desenvolvedor Full Stack focado em **React 19**, **TypeScript**, **Node.js**, **TailwindCSS**, **PostgreSQL** e **Supabase**.
 - 📱 Desenvolvimento Mobile com **React Native & Expo**, incluindo integrações nativas em **Android (Kotlin / Device Owner / Kiosk Mode)**.
 - 🤖 Adepto da cultura **AI-First & AI-Augmented Development** utilizando ferramentas de ponta (Claude, Cursor, Antigravity, MCPs e Agentes LLM).
