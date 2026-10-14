@@ -21,7 +21,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em **Ciência da Computação** (6º período) com base sólida em **Design & Visual Effects** (Gracom).
-- 🚀 Desenvolvedor Full Stack focado em **React 19**, **TypeScript**, **Node.js**, **TailwindCSS**, **PostgreSQL** e **Supabase**.
+- 🚀 Desenvolvedor Full Stack focado em **React 19**, **TypeScript**, **Node.js**, **TailwindCSS**, **PostgreSQL**.
 - 📱 Desenvolvimento Mobile com **React Native & Expo**, incluindo integrações nativas em **Android (Kotlin / Device Owner / Kiosk Mode)**.
 - 🤖 Adepto da cultura **AI-First & AI-Augmented Development** utilizando ferramentas de ponta (Claude, Cursor, Antigravity, MCPs e Agentes LLM).
 - 🐳 Familiaridade com containerização (**Docker & Docker Compose**), boas práticas de código limpo, APIs REST e versionamento com Git.
